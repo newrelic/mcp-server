@@ -1,0 +1,1 @@
+A Model Context Protocol (MCP) server that provides AI agents with access to New Relic observability data.
