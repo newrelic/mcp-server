@@ -17,9 +17,9 @@ For detailed setup instructions and complete documentation, visit: **[New Relic 
 ## Tool Categories
 
 Some of the tools organized by category:
-- **Entity and Account Management**: Entity lookup, account management, topology mapping
-- **Alerting and Monitoring**: Alert policies, incident management, vulnerability scanning  
-- **Incident Response**: Root cause analysis, change tracking, error analysis
+- **Entity and Account Management**: Entity lookup, account management
+- **Alerting and Monitoring**: Alert policies, incident management, recent issues 
+- **Incident Response**: Change tracking, error and alert analysis
 - **Performance Analytics**: Golden metrics, logs, thread analysis
-- **Data Access**: NRQL queries, GraphQL, natural language processing
-- **Advanced Analysis**: Intelligent insights, deployment impact assessment
+- **Data Access**: NRQL queries, natural language processing
+- **Advanced Analysis**: Deployment impact assessment, entity log analysis
